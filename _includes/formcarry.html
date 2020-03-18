@@ -1,0 +1,30 @@
+<form id="form" class="form" data-netlify="form" name="Contact" method="POST">
+  <div class="form__subcontainer">
+    <div>
+      <label for="form-name">Name</label>
+      <input type="text" name="Name" id="form-name" required>
+    </div>
+
+    <div>
+      <label for="form-email">E-Mail</label>
+      <input type="email" name="email" id="form-email" required>
+    </div>
+  </div>
+  <div>
+    <label for="form-email">Links to Bandcamp, Soundcloud, Vimeo, website, etc.</label>
+    <textarea type="text" name="links" id="form-links" rows="3"></textarea>
+  </div>
+
+  <div>
+    <label for="form-message">Message</label>
+    <textarea name="message" id="form-message" rows="3"></textarea>
+  </div>
+
+  <div class="form__submit">
+    <div class="form__btn">
+      <input type="submit" value="Send">
+    </div>
+  </div>
+
+  <p class="form__message"></p>
+</form>
