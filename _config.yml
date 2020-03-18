@@ -22,7 +22,7 @@ title: encerrado en casa
 email: mark@matienzo.org
 description: an attempt at organizing live experimental music and video art in the age of social distancing
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://encerradoen.casa" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
 
 sass:
