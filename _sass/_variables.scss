@@ -1,0 +1,10 @@
+#markdown {
+  .post-layout &,
+  #style-guide & {
+    font-family: "Roboto", sans-serif;
+  }
+}
+
+h2:not(.posts__text):not(.related__text), q, blockquote {
+  font-family: "Roboto", sans-serif;
+}

@@ -30,6 +30,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 permalink: /:year/:month/:day/:title/
 
+sass:
+  load_paths:
+    - _sass
+
 # Build settings
 remote_theme: samesies/barber-jekyll
 plugins:
@@ -71,6 +75,8 @@ author:
     bio: Based in the Bay Area, Mark A. Matienzo is an archivist and technologist, and performs music as Black Tent.
     url: https://matienzo.org/
 
+formcarry: https://formcarry.com/s/wBL60ZAfcJAw
+contact_img: /assets/images/wires.jpg
 
 social:
   - name: twitter
