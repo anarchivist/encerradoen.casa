@@ -63,6 +63,15 @@ autopages:
       mode: raw
       cased: true
 
+## barber-jekyll
+
+# Author settings
+author:
+  - name: Mark A. Matienzo
+    bio: Based in the Bay Area, Mark A. Matienzo is an archivist and technologist, and performs music as Black Tent.
+    url: https://matienzo.org/
+
+
 social:
   - name: twitter
     url: https://twitter.com/anarchivist

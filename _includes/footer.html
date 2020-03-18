@@ -1,6 +1,7 @@
 <!-- The footer at the very bottom of the screen -->
 <footer class="footer section-padding">
   <div class="grid">
+    {% if site.subscribe %}
     <div class="subscribe" id="subscribe">
       <div class="subscribe__container">
         <span class="subscribe__title">Subscribe</span>
@@ -8,7 +9,7 @@
         {% include subscribe-form.html %}
       </div>
     </div>
-
+    {% endif %}
     <hr class="sep--white"/>
 
     <div class="footer__container">
