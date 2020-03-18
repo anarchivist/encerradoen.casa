@@ -19,15 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: encerrado en casa
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+email: mark@matienzo.org
+description: an attempt at organizing live experimental music and video art in the age of social distancing
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
 
 sass:
@@ -41,6 +36,12 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+
+
+nav_pages:
+  - about.markdown
+
+## barber-jekyll
 
 # Pagination settings
 pagination:
@@ -61,13 +62,17 @@ autopages:
   tags:
     layouts:
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'encerrado en casa'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
       cased: true
 
-## barber-jekyll
+google_analytics: UA-6399155-6
+
+# MailChimp settings
+# mailchimp_action: https://blahblah.list-manage.com/subscribe/post-json?u=
+# mailchimp_input:
 
 # Author settings
 author:
@@ -77,6 +82,7 @@ author:
 
 formcarry: https://formcarry.com/s/wBL60ZAfcJAw
 contact_img: /assets/images/wires.jpg
+default_img: /assets/images/hand.jpg
 
 social:
   - name: twitter
@@ -88,5 +94,7 @@ social:
   - name: facebook
     url: https://www.facebook.com/blacktentsound/
 
-nav_pages:
-  - about.markdown
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]

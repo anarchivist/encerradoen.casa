@@ -2,9 +2,9 @@
 layout: post
 title:  "What are we doing?"
 author: Mark A. Matienzo
-date:   2020-03-16 22:49:54 -0700
+date:   2020-03-18 01:10:00 -0700
 description: encerrado en casa is an attempt at organizing live experimental music and video art in the age of social distancing.
-image: /assets/images/2020-03-17.jpg
+image: /assets/images/2020-03-18.jpg
 ---
 
 Lots of us have been struggling for a few weeks about how to prepare for the psychological impact of being stuck at home to [flatten the curve](https://www.flattenthecurve.com/). Rather than just work too much, some of us have found it useful to turn to our creative endeavors as a place to find some comfort or stability.
