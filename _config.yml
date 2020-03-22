@@ -51,7 +51,7 @@ autopages:
 google_analytics: UA-6399155-6
 
 # MailChimp settings
-mailchimp_action: https://casa.us19.list-manage.com/subscribe/post-json?u=86e8fc6b93ce5dadc646463eb&amp;id=981cd4c0b6
+mailchimp_action: https://casa.us19.list-manage.com/subscribe/post?u=86e8fc6b93ce5dadc646463eb&amp;id=981cd4c0b6
 mailchimp_input: b_86e8fc6b93ce5dadc646463eb_981cd4c0b6
 
 # Author settings
