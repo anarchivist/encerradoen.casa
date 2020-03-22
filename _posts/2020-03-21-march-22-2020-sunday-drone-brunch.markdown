@@ -15,4 +15,4 @@ Livestream your pancake cooking, your bennie-eating, and coffee-sipping. If you 
 
 > <br/>Telephone: +1 650 724 9799  [(International numbers available)](https://zoom.us/u/aerMPWwJR) - enter meeting ID: 638 875 081
 
-> <br/> Facebook event: [https://www.facebook.com/events/1070731576658779/](https://www.facebook.com/events/1070731576658779/)
+> <br/>: [RSVP: Facebook Event](https://www.facebook.com/events/1070731576658779/)
