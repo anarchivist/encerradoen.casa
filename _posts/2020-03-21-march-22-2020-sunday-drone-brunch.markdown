@@ -13,6 +13,6 @@ Livestream your pancake cooking, your bennie-eating, and coffee-sipping. If you 
 
 > Join from PC, Mac, Linux, iOS or Android: <https://zoom.us/j/638875081>
 
-> <br/>Telephone: +1 650 724 9799  [(International numbers available)](https://zoom.us/u/aerMPWwJR) - enter meeting ID: 638 875 081
+> Telephone: +1 650 724 9799  [(International numbers available)](https://zoom.us/u/aerMPWwJR) - enter meeting ID: 638 875 081
 
-> <br/>: [RSVP: Facebook Event](https://www.facebook.com/events/1070731576658779/)
+> [RSVP: Facebook Event](https://www.facebook.com/events/1070731576658779/)
