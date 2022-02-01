@@ -1,0 +1,23 @@
+[[redirects]]
+from = "/"
+to = "https://imprecision.art/series/encerrado-en-casa"
+status = 301
+force = true
+
+[[redirects]]
+from = "/about"
+to = "https://imprecision.art/series/encerrado-en-casa"
+status = 301
+force = true
+
+[[redirects]]
+from = "/2020/03/21/what-are-we-doing/"
+to = "https://imprecision.art/series/encerrado-en-casa"
+status = 301
+force = true
+
+[[redirects]]
+from = "/events/*"
+to = "https://imprecision.art/live/:splat"
+status = 301
+force = true
